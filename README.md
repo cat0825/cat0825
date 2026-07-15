@@ -1,57 +1,78 @@
-# MEOW, I'm cat0825
-
-I work on developer tools, AI coding workflows, and small open-source fixes that make things less brittle.
-
-```text
-focus  : developer tooling / AI coding agents / CLI workflows
-style  : small diffs, clear issues, practical fixes
-stack  : TypeScript · JavaScript · Node.js · Python · C++ · SCSS
-```
-
-## What I'm interested in
-
-- AI coding agents and local developer workflows
-- TypeScript / JavaScript tooling
-- CLI UX, automation, and GitHub workflows
-- Reproducing bugs and sending focused PRs
-- Visual systems, dashboards, and knowledge graphs
-
-## Open-source style
-
-I prefer contributions that are easy to review and hard to misunderstand:
-
-- clear reproduction steps
-- minimal, focused diffs
-- tests for behavior changes
-- practical fixes over unnecessary rewrites
-
-## Recent focus
-
-- Contributing to developer-agent tooling
-- Improving CLI auth and terminal UX issues
-- Exploring code understanding and graph-based knowledge tools
-
-## GitHub activity
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cat0825/cat0825/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cat0825/cat0825/output/github-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/cat0825/cat0825/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+  <img alt="Rāna(Bass Ver.) profile control plane" src="assets/hero-light.svg" width="100%">
 </picture>
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cat0825&show_icons=true&hide_border=true&theme=transparent" alt="cat0825 GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cat0825&layout=compact&hide_border=true&theme=transparent" alt="cat0825 top languages" />
-</p>
+![profile](https://img.shields.io/badge/profile-cat0825-00A7D1?style=flat-square&labelColor=102934) ![layers](https://img.shields.io/badge/layers-8-E84A8A?style=flat-square&labelColor=102934)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=cat0825&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+Building visual tools for AI workflows — from knowledge graphs and research workspaces to C\+\+ inference engines\.
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cat0825&theme=github-compact&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+## Flagship systems
 
-## Projects to check
+| Repository | Role | Purpose |
+| --- | --- | --- |
+| [`html-artifact-skill`](https://github.com/cat0825/html-artifact-skill) ![stars](https://img.shields.io/github/stars/cat0825/html--artifact--skill?style=flat-square&label=%E2%98%85) | VISUALIZE | A Craft Agent skill for generating polished, interactive HTML artifacts\. |
+| [`research-hub`](https://github.com/cat0825/research-hub) ![stars](https://img.shields.io/github/stars/cat0825/research--hub?style=flat-square&label=%E2%98%85) | RESEARCH | A Next\.js and Supabase workspace for publishing and browsing research resources\. |
+| [`Understand-Anything`](https://github.com/cat0825/Understand-Anything) ![stars](https://img.shields.io/github/stars/cat0825/Understand--Anything?style=flat-square&label=%E2%98%85) | UNDERSTAND | Interactive knowledge graphs for codebases, knowledge bases, and documentation\. |
+| [`infer_engine`](https://github.com/cat0825/infer_engine) ![stars](https://img.shields.io/github/stars/cat0825/infer__engine?style=flat-square&label=%E2%98%85) | EXECUTE | A minimal-dependency C\+\+17 inference engine with DAG-based operator scheduling\. |
+| [`ai-data-cache`](https://github.com/cat0825/ai-data-cache) ![stars](https://img.shields.io/github/stars/cat0825/ai--data--cache?style=flat-square&label=%E2%98%85) | ACCELERATE | High-performance dataset caching for AI training with zero-copy data paths\. |
+| [`rana408`](https://github.com/cat0825/rana408) ![stars](https://img.shields.io/github/stars/cat0825/rana408?style=flat-square&label=%E2%98%85) | LEARN | A structured 408 computer-science knowledge base built around probing questions\. |
 
-- [rana408](https://github.com/cat0825/rana408) — SCSS / frontend work
-- [html-artifact-skill](https://github.com/cat0825/html-artifact-skill) — HTML artifact generation skill
-- [research-hub](https://github.com/cat0825/research-hub) — TypeScript research workspace
-- [Understand-Anything](https://github.com/cat0825/Understand-Anything) — contribution work around code knowledge graphs
-- [pi](https://github.com/cat0825/pi) — contribution work on AI agent tooling
+## Closed-loop architecture
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/closed-loop-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/closed-loop-light.svg">
+  <img alt="Rāna(Bass Ver.) architecture map" src="assets/closed-loop-light.svg" width="100%">
+</picture>
+
+## Module registry
+
+<details>
+<summary><strong>Visual systems</strong> · 3 modules</summary>
+
+| Module | Purpose |
+| --- | --- |
+| [`html-artifact-skill`](https://github.com/cat0825/html-artifact-skill) | Magazine-grade HTML artifacts with themes, diagrams, and motion\. |
+| [`VMind`](https://github.com/cat0825/VMind) | Intelligent data visualization based on LLMs\. |
+| [`G6`](https://github.com/cat0825/G6) | A graph visualization framework in JavaScript\. |
+
+</details>
+
+<details>
+<summary><strong>Knowledge systems</strong> · 3 modules</summary>
+
+| Module | Purpose |
+| --- | --- |
+| [`Understand-Anything`](https://github.com/cat0825/Understand-Anything) | Interactive knowledge graphs for codebases and docs\. |
+| [`research-hub`](https://github.com/cat0825/research-hub) | Publish and browse research resources with a Next\.js and Supabase app\. |
+| [`rana408`](https://github.com/cat0825/rana408) | A 408 computer-science knowledge base for structured learning\. |
+
+</details>
+
+<details>
+<summary><strong>AI systems</strong> · 3 modules</summary>
+
+| Module | Purpose |
+| --- | --- |
+| [`infer_engine`](https://github.com/cat0825/infer_engine) | Lightweight C\+\+ inference with graph execution and SIMD optimization\. |
+| [`ai-data-cache`](https://github.com/cat0825/ai-data-cache) | Zero-copy, lock-free dataset caching for AI training\. |
+| [`ds4`](https://github.com/cat0825/ds4) | Local inference engine work targeting Metal and CUDA\. |
+
+</details>
+
+<details>
+<summary><strong>Agent workflows</strong> · 3 modules</summary>
+
+| Module | Purpose |
+| --- | --- |
+| [`open-multi-agent`](https://github.com/cat0825/open-multi-agent) | Multi-agent orchestration from goals to task DAGs\. |
+| [`pi`](https://github.com/cat0825/pi) | AI agent toolkit with a coding-agent CLI and unified model API\. |
+| [`taste-skill`](https://github.com/cat0825/taste-skill) | A skill focused on improving the visual quality of AI-generated work\. |
+
+</details>
+
+<p align="center"><a href="https://github.com/cat0825">GitHub</a></p>
+
+<!-- Generated by profile-control-plane. Edit profile.yaml, not this file. -->
