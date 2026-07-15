@@ -23,8 +23,8 @@
       <g transform="translate(1046 22)"><circle class="blink" cx="0" cy="0" r="4" fill="#00A7D1" filter="url(#glow)"/><text x="14" y="4" class="micro" fill="#8BA9B5">SYSTEM ONLINE</text></g>
       <path d="M0 44h1200" stroke="#2B4A57"/>
       <text x="38" y="91" class="label" fill="#00A7D1">// BUILDING THE INFRASTRUCTURE LAYER</text>
-      <text x="38" y="159" font-size="52" font-weight="900" letter-spacing="-2" fill="#E7F7FC">AI VISUAL</text><text x="38" y="218" font-size="45" font-weight="900" letter-spacing="-1.5" fill="#E7F7FC">SYSTEMS</text>
-      <text x="40" y="252" font-size="13" letter-spacing="2" fill="#8BA9B5">BUILDING VISUAL TOOLS FOR AI WORKFLOWS — FROM KNOWLEDGE GRAPHS AND RESE…</text>
+      <text x="38" y="159" font-size="52" font-weight="900" letter-spacing="-2" fill="#E7F7FC">SELECTED</text><text x="38" y="218" font-size="45" font-weight="900" letter-spacing="-1.5" fill="#E7F7FC">CONTRIBUTIONS</text>
+      <text x="40" y="252" font-size="13" letter-spacing="2" fill="#8BA9B5">FIXING THE EDGES WHERE AI SYSTEMS MEET REAL USERS.</text>
       <g transform="translate(1018 151)"><circle r="74" fill="none" stroke="#2B4A57"/><circle class="orbit" r="57" fill="none" stroke="#00A7D1" stroke-width="1.5" stroke-dasharray="8 10" opacity=".65"/>
       <g stroke="#00A7D1" opacity=".6"><path d="M0-74V-25M64-37L22-13M64 37L22 13M0 74V25M-64 37L-22 13M-64-37L-22-13"/></g>
       <circle r="18" fill="#0C1C24" stroke="#00A7D1" filter="url(#glow)"/><circle class="pulse" r="5" fill="#00A7D1"/>
@@ -35,50 +35,50 @@
         <rect width="134.0" height="38" rx="5" fill="#0C1C24" fill-opacity=".82" stroke="#00A7D1" stroke-opacity=".65"/>
         <circle class="pulse" cx="14" cy="19" r="3" fill="#00A7D1"/>
         <path d="M24 19h100.0" stroke="#00A7D1" stroke-opacity=".18" stroke-dasharray="7 9"/>
-        <text x="67.0" y="16" text-anchor="middle" font-size="8" letter-spacing="1.3" fill="#8BA9B5">VISUALIZE</text>
-        <text x="67.0" y="29" text-anchor="middle" font-size="9" font-weight="700" fill="#00A7D1">html-artifact-s…</text>
+        <text x="67.0" y="16" text-anchor="middle" font-size="8" letter-spacing="1.3" fill="#8BA9B5">RENDER</text>
+        <text x="67.0" y="29" text-anchor="middle" font-size="9" font-weight="700" fill="#00A7D1">maplibre-gl-js-…</text>
       </g><g transform="translate(168.0 304)">
         <rect width="134.0" height="38" rx="5" fill="#0C1C24" fill-opacity=".82" stroke="#00A7D1" stroke-opacity=".65"/>
         <circle class="pulse" cx="14" cy="19" r="3" fill="#00A7D1"/>
         <path d="M24 19h100.0" stroke="#00A7D1" stroke-opacity=".18" stroke-dasharray="7 9"/>
-        <text x="67.0" y="16" text-anchor="middle" font-size="8" letter-spacing="1.3" fill="#8BA9B5">RESEARCH</text>
-        <text x="67.0" y="29" text-anchor="middle" font-size="9" font-weight="700" fill="#00A7D1">research-hub</text>
+        <text x="67.0" y="16" text-anchor="middle" font-size="8" letter-spacing="1.3" fill="#8BA9B5">RELIABILITY</text>
+        <text x="67.0" y="29" text-anchor="middle" font-size="9" font-weight="700" fill="#00A7D1">new-api</text>
       </g><g transform="translate(314.0 304)">
         <rect width="134.0" height="38" rx="5" fill="#0C1C24" fill-opacity=".82" stroke="#00A7D1" stroke-opacity=".65"/>
         <circle class="pulse" cx="14" cy="19" r="3" fill="#00A7D1"/>
         <path d="M24 19h100.0" stroke="#00A7D1" stroke-opacity=".18" stroke-dasharray="7 9"/>
-        <text x="67.0" y="16" text-anchor="middle" font-size="8" letter-spacing="1.3" fill="#8BA9B5">UNDERSTAND</text>
-        <text x="67.0" y="29" text-anchor="middle" font-size="9" font-weight="700" fill="#00A7D1">Understand-Anyt…</text>
+        <text x="67.0" y="16" text-anchor="middle" font-size="8" letter-spacing="1.3" fill="#8BA9B5">ORCHESTRATE</text>
+        <text x="67.0" y="29" text-anchor="middle" font-size="9" font-weight="700" fill="#00A7D1">open-multi-agent</text>
       </g><g transform="translate(460.0 304)">
         <rect width="134.0" height="38" rx="5" fill="#0C1C24" fill-opacity=".82" stroke="#00A7D1" stroke-opacity=".65"/>
         <circle class="pulse" cx="14" cy="19" r="3" fill="#00A7D1"/>
         <path d="M24 19h100.0" stroke="#00A7D1" stroke-opacity=".18" stroke-dasharray="7 9"/>
-        <text x="67.0" y="16" text-anchor="middle" font-size="8" letter-spacing="1.3" fill="#8BA9B5">VISUAL AI</text>
-        <text x="67.0" y="29" text-anchor="middle" font-size="9" font-weight="700" fill="#00A7D1">VMind</text>
+        <text x="67.0" y="16" text-anchor="middle" font-size="8" letter-spacing="1.3" fill="#8BA9B5">INTEGRATE</text>
+        <text x="67.0" y="29" text-anchor="middle" font-size="9" font-weight="700" fill="#00A7D1">CodeIsland</text>
       </g><g transform="translate(606.0 304)">
         <rect width="134.0" height="38" rx="5" fill="#0C1C24" fill-opacity=".82" stroke="#E84A8A" stroke-opacity=".65"/>
         <circle class="pulse" cx="14" cy="19" r="3" fill="#E84A8A"/>
         <path d="M24 19h100.0" stroke="#E84A8A" stroke-opacity=".18" stroke-dasharray="7 9"/>
-        <text x="67.0" y="16" text-anchor="middle" font-size="8" letter-spacing="1.3" fill="#8BA9B5">EXECUTE</text>
-        <text x="67.0" y="29" text-anchor="middle" font-size="9" font-weight="700" fill="#E84A8A">infer_engine</text>
+        <text x="67.0" y="16" text-anchor="middle" font-size="8" letter-spacing="1.3" fill="#8BA9B5">MEMORY</text>
+        <text x="67.0" y="29" text-anchor="middle" font-size="9" font-weight="700" fill="#E84A8A">supermemory</text>
       </g><g transform="translate(752.0 304)">
         <rect width="134.0" height="38" rx="5" fill="#0C1C24" fill-opacity=".82" stroke="#E84A8A" stroke-opacity=".65"/>
         <circle class="pulse" cx="14" cy="19" r="3" fill="#E84A8A"/>
         <path d="M24 19h100.0" stroke="#E84A8A" stroke-opacity=".18" stroke-dasharray="7 9"/>
-        <text x="67.0" y="16" text-anchor="middle" font-size="8" letter-spacing="1.3" fill="#8BA9B5">ACCELERATE</text>
-        <text x="67.0" y="29" text-anchor="middle" font-size="9" font-weight="700" fill="#E84A8A">ai-data-cache</text>
+        <text x="67.0" y="16" text-anchor="middle" font-size="8" letter-spacing="1.3" fill="#8BA9B5">KNOWLEDGE</text>
+        <text x="67.0" y="29" text-anchor="middle" font-size="9" font-weight="700" fill="#E84A8A">research-hub</text>
       </g><g transform="translate(898.0 304)">
         <rect width="134.0" height="38" rx="5" fill="#0C1C24" fill-opacity=".82" stroke="#E84A8A" stroke-opacity=".65"/>
         <circle class="pulse" cx="14" cy="19" r="3" fill="#E84A8A"/>
         <path d="M24 19h100.0" stroke="#E84A8A" stroke-opacity=".18" stroke-dasharray="7 9"/>
-        <text x="67.0" y="16" text-anchor="middle" font-size="8" letter-spacing="1.3" fill="#8BA9B5">LEARN</text>
-        <text x="67.0" y="29" text-anchor="middle" font-size="9" font-weight="700" fill="#E84A8A">rana408</text>
+        <text x="67.0" y="16" text-anchor="middle" font-size="8" letter-spacing="1.3" fill="#8BA9B5">DOCUMENT</text>
+        <text x="67.0" y="29" text-anchor="middle" font-size="9" font-weight="700" fill="#E84A8A">G6</text>
       </g><g transform="translate(1044.0 304)">
         <rect width="134.0" height="38" rx="5" fill="#0C1C24" fill-opacity=".82" stroke="#E84A8A" stroke-opacity=".65"/>
         <circle class="pulse" cx="14" cy="19" r="3" fill="#E84A8A"/>
         <path d="M24 19h100.0" stroke="#E84A8A" stroke-opacity=".18" stroke-dasharray="7 9"/>
-        <text x="67.0" y="16" text-anchor="middle" font-size="8" letter-spacing="1.3" fill="#8BA9B5">ORCHESTRATE</text>
-        <text x="67.0" y="29" text-anchor="middle" font-size="9" font-weight="700" fill="#E84A8A">open-multi-agent</text>
+        <text x="67.0" y="16" text-anchor="middle" font-size="8" letter-spacing="1.3" fill="#8BA9B5">ENGINEER</text>
+        <text x="67.0" y="29" text-anchor="middle" font-size="9" font-weight="700" fill="#E84A8A">infer_engine</text>
       </g></g>
       <rect x="1" y="1" width="1198" height="358" rx="18" fill="none" stroke="#00A7D1" stroke-opacity=".72"/>
     </svg>

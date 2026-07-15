@@ -18,30 +18,30 @@
       <path d="M600.0 60.0L904.1 90.5L1030.0 164.0L904.1 237.5L600.0 268.0L295.9 237.5L170.0 164.0L295.9 90.5Z" fill="none" stroke="#A9C4CF" stroke-width="2"/><path class="flow" d="M600.0 60.0L904.1 90.5L1030.0 164.0L904.1 237.5L600.0 268.0L295.9 237.5L170.0 164.0L295.9 90.5Z" fill="none" stroke="url(#accent)" stroke-width="2"/>
       <g transform="translate(600 164)"><circle r="62" fill="#FFFFFF" stroke="#A9C4CF"/><circle class="orbit" r="48" fill="none" stroke="url(#accent)" stroke-width="2" stroke-dasharray="5 8"/>
       <circle r="23" fill="#F6FBFD" stroke="#00A7D1" filter="url(#glow)"/><circle class="pulse" r="6" fill="#00A7D1"/>
-      <text y="84" text-anchor="middle" class="micro" fill="#506D7A">AI VISUAL SYSTEMS</text></g><g><circle cx="600.0" cy="60.0" r="15" fill="#FFFFFF" stroke="#00A7D1" stroke-width="2"/><circle class="pulse" cx="600.0" cy="60.0" r="4" fill="#00A7D1"/>
-        <text x="600.0" y="42.0" text-anchor="middle" font-size="10" font-weight="700" fill="#102934">VISUALIZE</text>
-        <text x="600.0" y="54.0" text-anchor="middle" font-size="8" fill="#506D7A">html-artifact-skill</text>
+      <text y="84" text-anchor="middle" class="micro" fill="#506D7A">SELECTED CONTRIBUTIONS</text></g><g><circle cx="600.0" cy="60.0" r="15" fill="#FFFFFF" stroke="#00A7D1" stroke-width="2"/><circle class="pulse" cx="600.0" cy="60.0" r="4" fill="#00A7D1"/>
+        <text x="600.0" y="42.0" text-anchor="middle" font-size="10" font-weight="700" fill="#102934">RENDER</text>
+        <text x="600.0" y="54.0" text-anchor="middle" font-size="8" fill="#506D7A">maplibre-gl-js-7790</text>
         <text x="600.0" y="63.0" text-anchor="middle" font-size="8" fill="#00A7D1">01</text></g><g><circle cx="904.1" cy="90.5" r="15" fill="#FFFFFF" stroke="#00A7D1" stroke-width="2"/><circle class="pulse" cx="904.1" cy="90.5" r="4" fill="#00A7D1"/>
-        <text x="904.1" y="72.5" text-anchor="middle" font-size="10" font-weight="700" fill="#102934">RESEARCH</text>
-        <text x="904.1" y="84.5" text-anchor="middle" font-size="8" fill="#506D7A">research-hub</text>
+        <text x="904.1" y="72.5" text-anchor="middle" font-size="10" font-weight="700" fill="#102934">RELIABILITY</text>
+        <text x="904.1" y="84.5" text-anchor="middle" font-size="8" fill="#506D7A">new-api</text>
         <text x="904.1" y="93.5" text-anchor="middle" font-size="8" fill="#00A7D1">02</text></g><g><circle cx="1030.0" cy="164.0" r="15" fill="#FFFFFF" stroke="#00A7D1" stroke-width="2"/><circle class="pulse" cx="1030.0" cy="164.0" r="4" fill="#00A7D1"/>
-        <text x="1030.0" y="194.0" text-anchor="middle" font-size="10" font-weight="700" fill="#102934">UNDERSTAND</text>
-        <text x="1030.0" y="206.0" text-anchor="middle" font-size="8" fill="#506D7A">Understand-Anything</text>
+        <text x="1030.0" y="194.0" text-anchor="middle" font-size="10" font-weight="700" fill="#102934">ORCHESTRATE</text>
+        <text x="1030.0" y="206.0" text-anchor="middle" font-size="8" fill="#506D7A">open-multi-agent</text>
         <text x="1030.0" y="167.0" text-anchor="middle" font-size="8" fill="#00A7D1">03</text></g><g><circle cx="904.1" cy="237.5" r="15" fill="#FFFFFF" stroke="#00A7D1" stroke-width="2"/><circle class="pulse" cx="904.1" cy="237.5" r="4" fill="#00A7D1"/>
-        <text x="904.1" y="267.5" text-anchor="middle" font-size="10" font-weight="700" fill="#102934">VISUAL AI</text>
-        <text x="904.1" y="279.5" text-anchor="middle" font-size="8" fill="#506D7A">VMind</text>
+        <text x="904.1" y="267.5" text-anchor="middle" font-size="10" font-weight="700" fill="#102934">INTEGRATE</text>
+        <text x="904.1" y="279.5" text-anchor="middle" font-size="8" fill="#506D7A">CodeIsland</text>
         <text x="904.1" y="240.5" text-anchor="middle" font-size="8" fill="#00A7D1">04</text></g><g><circle cx="600.0" cy="268.0" r="15" fill="#FFFFFF" stroke="#E84A8A" stroke-width="2"/><circle class="pulse" cx="600.0" cy="268.0" r="4" fill="#E84A8A"/>
-        <text x="600.0" y="298.0" text-anchor="middle" font-size="10" font-weight="700" fill="#102934">EXECUTE</text>
-        <text x="600.0" y="310.0" text-anchor="middle" font-size="8" fill="#506D7A">infer_engine</text>
+        <text x="600.0" y="298.0" text-anchor="middle" font-size="10" font-weight="700" fill="#102934">MEMORY</text>
+        <text x="600.0" y="310.0" text-anchor="middle" font-size="8" fill="#506D7A">supermemory</text>
         <text x="600.0" y="271.0" text-anchor="middle" font-size="8" fill="#E84A8A">05</text></g><g><circle cx="295.9" cy="237.5" r="15" fill="#FFFFFF" stroke="#E84A8A" stroke-width="2"/><circle class="pulse" cx="295.9" cy="237.5" r="4" fill="#E84A8A"/>
-        <text x="295.9" y="267.5" text-anchor="middle" font-size="10" font-weight="700" fill="#102934">ACCELERATE</text>
-        <text x="295.9" y="279.5" text-anchor="middle" font-size="8" fill="#506D7A">ai-data-cache</text>
+        <text x="295.9" y="267.5" text-anchor="middle" font-size="10" font-weight="700" fill="#102934">KNOWLEDGE</text>
+        <text x="295.9" y="279.5" text-anchor="middle" font-size="8" fill="#506D7A">research-hub</text>
         <text x="295.9" y="240.5" text-anchor="middle" font-size="8" fill="#E84A8A">06</text></g><g><circle cx="170.0" cy="164.0" r="15" fill="#FFFFFF" stroke="#E84A8A" stroke-width="2"/><circle class="pulse" cx="170.0" cy="164.0" r="4" fill="#E84A8A"/>
-        <text x="170.0" y="194.0" text-anchor="middle" font-size="10" font-weight="700" fill="#102934">LEARN</text>
-        <text x="170.0" y="206.0" text-anchor="middle" font-size="8" fill="#506D7A">rana408</text>
+        <text x="170.0" y="194.0" text-anchor="middle" font-size="10" font-weight="700" fill="#102934">DOCUMENT</text>
+        <text x="170.0" y="206.0" text-anchor="middle" font-size="8" fill="#506D7A">G6</text>
         <text x="170.0" y="167.0" text-anchor="middle" font-size="8" fill="#E84A8A">07</text></g><g><circle cx="295.9" cy="90.5" r="15" fill="#FFFFFF" stroke="#E84A8A" stroke-width="2"/><circle class="pulse" cx="295.9" cy="90.5" r="4" fill="#E84A8A"/>
-        <text x="295.9" y="72.5" text-anchor="middle" font-size="10" font-weight="700" fill="#102934">ORCHESTRATE</text>
-        <text x="295.9" y="84.5" text-anchor="middle" font-size="8" fill="#506D7A">open-multi-agent</text>
+        <text x="295.9" y="72.5" text-anchor="middle" font-size="10" font-weight="700" fill="#102934">ENGINEER</text>
+        <text x="295.9" y="84.5" text-anchor="middle" font-size="8" fill="#506D7A">infer_engine</text>
         <text x="295.9" y="93.5" text-anchor="middle" font-size="8" fill="#E84A8A">08</text></g>
       <rect x="1" y="1" width="1198" height="328" rx="18" fill="none" stroke="#E84A8A" stroke-opacity=".55"/>
     </svg>
