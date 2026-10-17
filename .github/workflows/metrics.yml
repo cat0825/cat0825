@@ -1,0 +1,67 @@
+name: Generate GitHub metrics
+
+on:
+  schedule:
+    - cron: "30 22 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/metrics.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: metrics
+  cancel-in-progress: false
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics dashboard
+        uses: lowlighter/metrics@latest
+        with:
+          # A classic PAT with `repo` + `read:user` exposes private contribution
+          # counts. Without it the dashboard falls back to public data only.
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          user: cat0825
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Shanghai
+          config_display: columns
+          config_order: base.header, base.activity+community, base.repositories, base.metadata, languages, isocalendar
+          filename: github-metrics.svg
+          committer_branch: metrics
+          plugins_errors_fatal: yes
+          retries: 3
+          extras_css: |
+            :root {
+              color-scheme: dark;
+              --color-calendar-graph-day-bg: #161b22;
+              --color-calendar-graph-day-border: #30363d;
+              --color-calendar-graph-day-L1-bg: #0e4429;
+              --color-calendar-graph-day-L2-bg: #006d32;
+              --color-calendar-graph-day-L3-bg: #26a641;
+              --color-calendar-graph-day-L4-bg: #39d353;
+            }
+            svg { background: #0d1117; color: #c9d1d9; }
+            h1, h2, h3 { color: #58a6ff; }
+            .field svg { fill: #8b949e; }
+            .field.error { color: #ff7b72; }
+            footer, .field.language.details small { color: #8b949e; }
+            .calendar .day { outline-color: #30363d; }
+            svg[viewBox="0,0 480,270"] path[fill="#ebedf0"] { fill: #161b22; }
+            svg[viewBox="0,0 480,270"] path[fill="#9be9a8"] { fill: #0e4429; }
+            svg[viewBox="0,0 480,270"] path[fill="#40c463"] { fill: #006d32; }
+            svg[viewBox="0,0 480,270"] path[fill="#30a14e"] { fill: #26a641; }
+            svg[viewBox="0,0 480,270"] path[fill="#216e39"] { fill: #39d353; }
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          plugin_languages_threshold: 0%
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
