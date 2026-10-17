@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img alt="Rāna — AI systems reliability and open source" src="assets/hero-light.svg" width="100%">
-</picture>
+![GitHub metrics for cat0825](https://raw.githubusercontent.com/cat0825/cat0825/metrics/github-metrics.svg)
 
 ![merged PRs](https://img.shields.io/badge/merged%20into%20other%20projects-31-00A7D1?style=flat-square&labelColor=102934)
 ![repositories](https://img.shields.io/badge/repositories-16-E84A8A?style=flat-square&labelColor=102934)
