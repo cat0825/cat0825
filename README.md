@@ -1,4 +1,4 @@
-![GitHub metrics for cat0825](https://raw.githubusercontent.com/cat0825/cat0825/metrics/github-metrics.svg)
+<img width="100%" alt="GitHub metrics for cat0825" src="https://raw.githubusercontent.com/cat0825/cat0825/metrics/github-metrics.svg">
 
 ![merged PRs](https://img.shields.io/badge/merged%20into%20other%20projects-31-00A7D1?style=flat-square&labelColor=102934)
 ![repositories](https://img.shields.io/badge/repositories-16-E84A8A?style=flat-square&labelColor=102934)
